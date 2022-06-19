@@ -1,0 +1,38 @@
+id: ID7D505D4
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T08:53:39.969880'
+last_modified: '2022-06-19T08:53:39.969894'
+parser: null
+source_metadata:
+  title: Hagiography of the 44th Ngor abbot Byams pa nam mkha chi med bkra shis grags
+    pai rgyal mtshan (1765–1820); Lamdre Lobshe, vol. ja, title no. 1
+  author: byams pa kun dga bstan pai rgyal mtshan/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-09-05); unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), kun dga' rdo rje/ (Kathmandu) (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/578
+  bases:
+    26c7:
+      title: Hagiography of the 44th Ngor abbot Byams pa nam mkha chi med bkra shis
+        grags pai rgyal mtshan (1765–1820); Lamdre Lobshe, vol. ja, title no. 1
+      order: 1
+      base_file: 26c7.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
